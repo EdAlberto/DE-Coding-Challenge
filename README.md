@@ -1,4 +1,4 @@
-This repository is a code challenge (section 1 API and section 2 SQL).
+This repository is a code challenge (section 1 API and section 2 SQL). The programming language is Python.
 
 It has the scope to create a REST API to load data in a SQLite database tables from csv files and get two queries results based in the data of those tables.
 
